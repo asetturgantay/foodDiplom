@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Главная" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/selector_width_item"
+        android:title="Избранные" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/person_48px"
+        android:title="Мой профиль" />
+
+    <item
+        android:id="@+id/histoty"
+        android:icon="@drawable/history_48px"
+        android:title="История заказа" />
+
+</menu>

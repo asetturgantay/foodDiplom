@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTabLayoutTab" parent="Widget.MaterialComponents.TabLayout">
+        <item name="android:layout_width">200dp</item> <!-- Замените на нужную ширину -->
+        <item name="android:layout_height">50dp</item> <!-- Замените на нужную высоту -->
+    </style>
+
+    <style name="RoundedImageView">
+        <item name="android:background">@drawable/radius4</item>
+    </style>
+
+
+
+
+</resources>

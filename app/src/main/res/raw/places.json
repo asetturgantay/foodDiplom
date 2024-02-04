@@ -1,0 +1,24 @@
+[
+    {
+        "geometry": {
+            "location": {
+                "lat": 43.2184388,
+                "lng": 76.872427
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 43.2184388,
+                    "lng": 76.872427
+                },
+                "southwest": {
+                    "lat": 43.2184388,
+                    "lng": 76.872427
+                }
+            }
+        },
+        "name": " Пицца",
+        "rating": 4.2,
+        "vicinity": "1077 Valencia Street, San Francisco"
+    }
+
+]
