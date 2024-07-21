@@ -32,7 +32,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/delivery-app.git
+    git clone https://github.com/asetturgantay/foodDiplom.git
     ```
 2. Откройте проект в Android Studio.
 3. Настройте Firebase проект:
